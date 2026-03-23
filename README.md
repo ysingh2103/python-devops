@@ -1,6 +1,3 @@
-# python-devops
-Hands-on Python projects for DevOps, automation, and cloud engineering
-
 # Python-Devops
 
 A structured, project-based Python learning journey focused on building real-world skills in DevOps, Cloud Engineering, and AI/LLM development.
